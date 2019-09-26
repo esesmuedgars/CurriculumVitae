@@ -9,9 +9,12 @@
 
 - [X] Able to collaborate
 - [X] Able to work remotely
+- [X] Ambitious
 - [X] Attentive to details
+- [X] Creative
 - [X] Cross-border team experience
 - [X] Fast learner
+- [X] Keen on new technology
 - [X] Proactive
 - [X] Responsible
 - [X] Willing to go the extra mile
