@@ -80,7 +80,7 @@ Guided intern for a duration of two months. During which was responsible for tea
 Developed minimum viable product application that helps caregiving relatives track caretakers incontinence occurrences. Users are able to create accounts, send invites to family members to create accounts and join user's family group, and link product<sup>[1]</sup>with application. Afterwards, all users are receiving push notifications of caretakers diapers saturation level, are able to submit reports and navigate through helpful tips.
 Responsible for development of new features, creation of various custom and reusable components, writing Unit tests, reviewing teammate's solutions, consulting of clients.
 Participated in functional design workshops with clients to help determine scope of requirements for mobile application. 
-Responsible for creation of user story inventory and estimation of development effort to create proposal for the client.<br>1.IoT sensor and BLE beacon
+Responsible for creation of user story inventory and estimation of development effort to create proposal for the client.<br>1. IoT sensor and BLE beacon
 
 ### Dukascopy Bank
 
