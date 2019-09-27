@@ -20,11 +20,16 @@
 - [X] Willing to go the extra mile
 - [ ] Cheap
 
-## Featured work
+## Skills
 
-- [Trello dashboard](https://github.com/esesmuedgars/Trello) application
-- [Cat Junkie](https://github.com/esesmuedgars/CatJunkie) application
-- [Burgershop Finder](https://github.com/esesmuedgars/BurgershopFinder) application
+- Swift, Objective-C
+- MVC, MVVM, Coordinator
+- OOP, RX
+- Unit testing
+- CocoaPods, Carthage
+- TestFlight
+- Git
+- Sketch
 
 ## Experience
 
@@ -135,15 +140,4 @@ Developed proof of concept application as a library - with custom camera and voi
 Developed automation testing library, distributed via CocoaPods, that used WebSocket to communicate with JavaScript local server.
 Developed application that acted as client and executed user actions, provided by product<sup>[2]</sup>, invoked by server and notified server of results.<br>2. Client SDKs
 
-(_eg. application establishes instance with server. Server sends create client to application. Application uses product to create client, afterwards, notifies server. Server asserts data and passes or fails test._)
-
-## Skills
-
-- Swift, Objective-C
-- MVC, MVVM, Coordinator
-- OOP, RX
-- Unit testing
-- CocoaPods, Carthage
-- TestFlight
-- Git
-- Sketch
+(_eg. application establishes instance with server. Server sends create client command to application. Application uses product to create client, afterwards, notifies server. Server asserts data and passes or fails test._)
