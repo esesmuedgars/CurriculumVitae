@@ -30,7 +30,7 @@
 - TestFlight
 - Git
 - UI, UX, HIG
-- Sketch
+- Sketch, Zeplin, InVision
 
 ## Experience
 
