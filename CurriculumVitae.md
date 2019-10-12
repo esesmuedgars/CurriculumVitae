@@ -26,9 +26,10 @@
 - MVC, MVVM, Coordinator
 - OOP, RX
 - Unit testing
-- CocoaPods, Carthage
+- CocoaPods, Carthage, SPM
 - TestFlight
 - Git
+- UI, UX, HIG
 - Sketch
 
 ## Experience
