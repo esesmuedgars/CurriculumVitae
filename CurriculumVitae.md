@@ -53,7 +53,7 @@
   </tr>
    <tr>
     <td>Technology stack</td>
-    <td>Fastlane, GitHub, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
+    <td>Fastlane, Jenkins, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
   </tr>
 </table>
 
@@ -79,7 +79,7 @@ Guided intern for a duration of two months. During which was responsible for tea
   </tr>
    <tr>
     <td>Technology stack</td>
-    <td>MVVM, Bitbucket, CocoaPods, ReactiveSwift, Azure Active Directory, Nimble</td>
+    <td>MVVM, CocoaPods, ReactiveSwift, Azure Active Directory, Nimble</td>
   </tr>
 </table>
 
@@ -107,7 +107,7 @@ Responsible for creation of user story inventory and estimation of development e
   </tr>
    <tr>
     <td>Technology stack</td>
-    <td>MVC, GitLab</td>
+    <td>MVC</td>
   </tr>
 </table>
 
@@ -134,7 +134,7 @@ Developed proof of concept application as a library - with custom camera and voi
   </tr>
    <tr>
     <td>Technology stack</td>
-    <td>MVC, GitHub, CocoaPods</td>
+    <td>MVC, CocoaPods</td>
   </tr>
 </table>
 
