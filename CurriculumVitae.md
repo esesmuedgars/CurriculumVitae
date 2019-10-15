@@ -2,7 +2,7 @@
 ======================================
 
 [![GitHub](https://img.shields.io/badge/Account%20on-GitHub-24292E.svg)](https://github.com/esesmuedgars)
-[![Stack Overflow](https://img.shields.io/badge/Account%20on-Stack%20Overflow-F48024.svg)](https://stackoverflow.com/users/7890303/esesmuedgars)
+[![Stack Overflow](https://img.shields.io/badge/Account%20on-Stack%20Overflow-F48024.svg)](https://stackoverflow.com/users/7890303/esesmuedgars?tab=profile)
 [![LinkedIn](https://img.shields.io/badge/Account%20on-LinkedIn-0077B5.svg)](https://www.linkedin.com/in/edgarsvanags/)
 [![Gmail](https://img.shields.io/badge/Send%20to-Gmail-D44638.svg)](mailto:edgars.vanags1@gmail.com?subject=iOS%20Developer&body=Hello%20Edgars,%20)
 
