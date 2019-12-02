@@ -35,9 +35,32 @@
 
 ## Experience
 
+<!--
+### Mooncascade
+#### Senior iOS Developer (_January 2020 - Present_)
+<table>
+  <tr>
+    <td>Operating system</td>
+    <td>iOS</td>
+  </tr>
+  <tr>
+    <td>Programming language</td>
+    <td>Swift</td>
+  </tr>
+   <tr>
+    <td>Mobile developers (out of which iOS)</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Technology stack</td>
+    <td></td>
+  </tr>
+</table>
+-->
+
 ### Accenture
 
-#### Senior iOS Developer (_June 2019 - Present_)
+#### Senior iOS Developer (_June 2019 - December 2019_)
 
 <table>
   <tr>
@@ -57,6 +80,11 @@
     <td>Fastlane, Jenkins, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
   </tr>
 </table>
+
+<!--
+- Chaperoning iOS development intern - teaching best Swift development principles and fundamentals of programming, creating development tasks, reviewing and overseeing work, creating designs with Sketch and prototypes with InVision, using Trello for task tracking;
+- Developed Swift iOS application for insurance company in cross-border team, iOS development team consists of four people, including myself. Application allows users to submit receipts, start video call with doctor, manage insurance policies of linked family members, find nearest hospital based on current location. Using MVVM software architectural pattern and Coordinator pattern. Developing according to Gitflow Workflow with dedicated release, defect, feature, user-story etc. branches. Deeply integrated RxSwift and RxCocoa libraries. Responsible for development of new features, resolving of defects, completion of quality stories, writing of Unit tests. Reviewing solutions of colleagues.
+-->
 
 Developing new features for application that grants users ability to submit receipts and claim medical expenses, manage their insurance policy and keep track of family member policies, find nearest hospital, use chatbot to check symptoms, participate in activities to earn prizes, have online chat with representative.
 Responsible for development of new features, resolving defects, improving legacy code, writing Unit tests and network substitutes, reviewing solutions of colleagues.
@@ -83,6 +111,12 @@ Guided intern for a duration of two months. During which was responsible for tea
     <td>MVVM, CocoaPods, ReactiveSwift, Azure Active Directory, Nimble</td>
   </tr>
 </table>
+
+<!--
+- Took initiative to prepare learning materials and review technical tasks for iOS Bootcamp;
+- Developed Swift iOS application in cross-border team that would help caregiving relatives track caretakers incontinence occurrences. Utilising Microsoft Azure Active Directory, ReactiveSwift and ReactiveCocoa as well as MVVM software architectural pattern. Responsible for development and integration of client stated requirements, creation of various custom and reusable components. Reviewing solutions of teammates;
+- Consulting of clients. Participated in functional design workshops with clients to help determine scope of requirements for mobile application. Responsible for creation of user story inventory and estimation of development effort to create proposal for the client.
+-->
 
 Developed minimum viable product application that helps caregiving relatives track caretakers incontinence occurrences. Users are able to create accounts, send invites to family members to create accounts and join user's family group, and link product<sup>[1]</sup>with application. Afterwards, all users are receiving push notifications of caretakers diapers saturation level, are able to submit reports and navigate through helpful tips.
 Responsible for development of new features, creation of various custom and reusable components, writing Unit tests, reviewing teammate's solutions, consulting of clients.
@@ -112,6 +146,10 @@ Responsible for creation of user story inventory and estimation of development e
   </tr>
 </table>
 
+<!--
+- Developed proof of concept Swift social media application. Utilising WebKit native framework, implemented communication bridge between embedded Javascript application and native source code. Responsible for implementation of reusable classes and custom user interface elements.
+-->
+
 Developed proof of concept application as a library - with custom camera and voice recorder, sticker keyboard, location tracking, WebSocket user chat - that embedded JavaScript used to execute actions.
 
 (_eg. JavaScript communicated to application that it should download following stickers and display keyboard, begin user location tracking etc._)
@@ -139,7 +177,31 @@ Developed proof of concept application as a library - with custom camera and voi
   </tr>
 </table>
 
+<!--
+- Worked in project that tests iOS, Android and Web SDKs. Creating iOS demo application chatroom with live video streaming using some of those SDKs running on locally deployed Node.js server;
+- Created and updated JavaScript FCM Push Notification test cases;
+- Participated in Java for Android training, developed a demo Calculator Application using MVC architectural pattern, Interfaces, Activities, Asynchronous API calls, Shared Preferences, Services, Localisable content and Material Design guidelines;
+- Developed demo Android mobile application that retrieves and displays connection's public IP address, coordinates and map marker of IP address source, ability to run data transfer rate speed test;
+- Built Swift Library for iOS that communicates with JavaScript node server in order to run automated tests for client's product SDKs. Added Unit tests. Distributed library through CocoaPods dependency manager;
+- Created automated tests for iOS DataSync SDK utilising self-made CocoaPod;
+- Worked on creation of test automated for iOS IP Messaging SDK utilising self-made CocoaPod;
+- Developed demo C++ library that created, opened, read and wrote to file using fstream class, created a bridge via which Swift demo application communicated with the library.
+-->
+
 Developed automation testing library, distributed via CocoaPods, that used WebSocket to communicate with JavaScript local server.
 Developed application that acted as client and executed user actions, provided by product<sup>[2]</sup>, invoked by server and notified server of results.<br>2. Client SDKs
 
 (_eg. application establishes instance with server. Server sends create client command to application. Application uses product to create client, afterwards, notifies server. Server asserts data and passes or fails test._)
+
+<!--
+### Accenture
+#### iOS Development Intern (_March 2017 - August 2017_)
+- Investigated Realm mobile database by creating a Swift demo application with multi-threading to check whether Realm could handle the load of write operations if the project would be migrated from SQLite and Core Data;
+- Developed a Swift demo application with multiple schemes based on existent project Web Services and Back-End APIs. User authentication and portrayal of API availability for a singed-in user;
+- Been involved in Swift international project, worked on new screen implementations with MVVM architectural and OOP design patterns, bug fixes, different improvements and maintenance of existent application;
+- Renewed Apple Distribution and Developer certificates, implemented Push Notifications Service
+using Firebase platform for an project was developing React-Native application, worked solely, closely with client to finish deployment of application, implemented some client requested changes and bug fixes;
+- Created Objective-C demo application that used self-created local Node Server and self-designed, static API that utilizes YouTube iFrames and WebView which was modified by injection of HTML/CSS/JS; 
+- Investigated, inside, Objective-C project that allowed to book rooms, fixed issue regarding application not authenticating with provided API and not retrieving any data;
+- Worked on iOS, Objective-C project, developing Bank Application, maintenance of existent application and implementation of new features and improvements, deploying new builds in HockeyApp.
+-->
