@@ -152,7 +152,7 @@ Responsible for creation of user story inventory and estimation of development e
 
 Developed proof of concept application as a library - with custom camera and voice recorder, sticker keyboard, location tracking, WebSocket user chat - that embedded JavaScript used to execute actions.
 
-(_eg. JavaScript communicated to application that it should download following stickers and display keyboard, begin user location tracking etc._)
+(_e.g. JavaScript communicated to application that it should download following stickers and display keyboard, begin user location tracking etc._)
 
 ### TestDevLab
 
@@ -191,7 +191,7 @@ Developed proof of concept application as a library - with custom camera and voi
 Developed automation testing library, distributed via CocoaPods, that used WebSocket to communicate with JavaScript local server.
 Developed application that acted as client and executed user actions, provided by product<sup>[2]</sup>, invoked by server and notified server of results.<br>2. Client SDKs
 
-(_eg. application establishes instance with server. Server sends create client command to application. Application uses product to create client, afterwards, notifies server. Server asserts data and passes or fails test._)
+(_e.g. application establishes instance with server. Server sends create client command to application. Application uses product to create client, afterwards, notifies server. Server asserts data and passes or fails test._)
 
 <!--
 ### Accenture
