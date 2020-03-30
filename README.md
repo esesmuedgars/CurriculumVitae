@@ -23,7 +23,7 @@
 
 ## Skills
 
-- Swift, Objective-C
+- Swift
 - MVC, MVVM, Coordinator
 - OOP, RX
 - Unit testing
@@ -39,7 +39,6 @@
 
 #### Senior iOS Developer (_January 2020 - Present_)
 
-<!--
 <table>
   <tr>
     <td>Operating system</td>
@@ -51,14 +50,13 @@
   </tr>
    <tr>
     <td>Mobile developers (out of which iOS)</td>
-    <td></td>
+    <td>1(1)</td>
   </tr>
    <tr>
     <td>Technology stack</td>
-    <td></td>
+    <td>MVVM-C, Carthage, SwiftGen, PureLayout, RxSwift, Firebase</td>
   </tr>
 </table>
--->
 
 ### Accenture
 
