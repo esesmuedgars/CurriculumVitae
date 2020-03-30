@@ -58,6 +58,8 @@
   </tr>
 </table>
 
+Maintained mobile banking application by adding improvements and fixing issues.
+
 ### Accenture
 
 #### Senior iOS Developer (_June 2019 - December 2019_)
@@ -86,7 +88,7 @@
 - Developed Swift iOS application for insurance company in cross-border team, iOS development team consists of four people, including myself. Application allows users to submit receipts, start video call with doctor, manage insurance policies of linked family members, find nearest hospital based on current location. Using MVVM software architectural pattern and Coordinator pattern. Developing according to Gitflow Workflow with dedicated release, defect, feature, user-story etc. branches. Deeply integrated RxSwift and RxCocoa libraries. Responsible for development of new features, resolving of defects, completion of quality stories, writing of Unit tests. Reviewing solutions of colleagues.
 -->
 
-Developing new features for application that grants users ability to submit receipts and claim medical expenses, manage their insurance policy and keep track of family member policies, find nearest hospital, use chatbot to check symptoms, participate in activities to earn prizes, have online chat with representative.
+Developed new features for application that grants users ability to submit receipts and claim medical expenses, manage their insurance policy and keep track of family member policies, find nearest hospital, use chatbot to check symptoms, participate in activities to earn prizes, have online chat with representative.
 Responsible for development of new features, resolving defects, improving legacy code, writing Unit tests and network substitutes, reviewing solutions of colleagues.
 
 Guided intern for a duration of two months. During which was responsible for teaching best development principles and fundamentals of programming, creating development tasks, reviewing work, creating designs and prototypes... [more](https://github.com/esesmuedgars/CurriculumVitae/blob/master/InternChaperone.md)
