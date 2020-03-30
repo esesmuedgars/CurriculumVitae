@@ -37,7 +37,7 @@
 
 ### Mooncascade
 
-#### Senior iOS Developer (_January 2020 - Present_)
+#### Senior iOS Developer (_January 2020 - April 2020_)
 
 <table>
   <tr>
