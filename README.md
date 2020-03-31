@@ -21,7 +21,7 @@
 - [X] Willing to go the extra mile
 - [ ] Cheap
 
-## Skills
+## Skills and tools
 
 - Swift
 - MVC, MVVM, Coordinator
@@ -32,6 +32,7 @@
 - Git
 - UI, UX, HIG
 - Sketch, Zeplin, InVision
+- Jira
 
 ## Experience
 
