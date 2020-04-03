@@ -23,14 +23,19 @@
 
 ## Skills and tools
 
-- Swift
-- MVC, MVVM, Coordinator
-- OOP, RX
+- Swift<sup>[RW]</sup>, Objective-C<sup>[R]</sup>
+- MVC, MVVM, Coordinator pattern
+- OOP, Reactive programming
+- REST API, WS, GraphQL
+- XcodeGen, SwiftGen
+- SwiftLint
 - Unit testing
 - CocoaPods, Carthage, SPM
-- TestFlight
 - Git
-- UI, UX, HIG
+- Google Analytics
+- CI / CD
+- TestFlight, Firebase App Distribution
+- UI, UX, Human Interface Guidelines
 - Sketch, Zeplin, InVision
 - Jira
 
