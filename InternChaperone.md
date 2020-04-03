@@ -10,4 +10,4 @@ Finally, organised iOS junior interview - technical query as well as practical a
 
 Afterwards, had additional discussions regarding future tasks to improve his skills as iOS developer. Talked with management and proactively looked for project that would be willing to undertake young developer. Kept checking-in with intern on a monthly basis, to review his progress.
 
-(_eg. [Trello dashboard application assignment](https://github.com/esesmuedgars/Trello) for iOS development intern. User can view his own boards and corresponding cards, edit card details or delete card._)
+(_e.g. [Trello dashboard application assignment](https://github.com/esesmuedgars/Trello) for iOS development intern. User can view his own boards and corresponding cards, edit card details or delete card._)
