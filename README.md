@@ -41,6 +41,29 @@
 
 ## Experience
 
+### Accenture
+
+#### Senior iOS Developer (_May 2020 - Present_)
+
+<table>
+  <tr>
+    <td>Operating system</td>
+    <td>iOS</td>
+  </tr>
+  <tr>
+    <td>Programming language</td>
+    <td>Swift</td>
+  </tr>
+  <tr>
+    <td>Mobile developers (out of which iOS)</td>
+    <td>11(5)</td>
+  </tr>
+  <tr>
+    <td>Technology stack</td>
+    <td>Fastlane, Jenkins, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
+  </tr>
+</table>
+
 ### Mooncascade
 
 #### Senior iOS Developer (_January 2020 - April 2020_)
@@ -54,11 +77,11 @@
     <td>Programming language</td>
     <td>Swift</td>
   </tr>
-   <tr>
+  <tr>
     <td>Mobile developers (out of which iOS)</td>
     <td>1(1)</td>
   </tr>
-   <tr>
+  <tr>
     <td>Technology stack</td>
     <td>MVVM-C, Carthage, SwiftGen, PureLayout, RxSwift, Firebase</td>
   </tr>
@@ -81,11 +104,11 @@ Estimated development effort to create proposal for a potential client.
     <td>Programming language</td>
     <td>Swift</td>
   </tr>
-   <tr>
+  <tr>
     <td>Mobile developers (out of which iOS)</td>
     <td>11(5)</td>
   </tr>
-   <tr>
+  <tr>
     <td>Technology stack</td>
     <td>Fastlane, Jenkins, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
   </tr>
@@ -112,11 +135,11 @@ Guided intern for a duration of two months. During which I was responsible for t
     <td>Programming language</td>
     <td>Swift</td>
   </tr>
-   <tr>
+  <tr>
     <td>Mobile developers (out of which iOS)</td>
     <td>4(2)</td>
   </tr>
-   <tr>
+  <tr>
     <td>Technology stack</td>
     <td>MVVM, CocoaPods, ReactiveSwift, Azure Active Directory, Nimble</td>
   </tr>
@@ -147,11 +170,11 @@ Responsible for creation of user story inventory and estimation of development e
     <td>Programming language</td>
     <td>Swift</td>
   </tr>
-   <tr>
+  <tr>
     <td>Mobile developers (out of which iOS)</td>
     <td>1(1)</td>
   </tr>
-   <tr>
+  <tr>
     <td>Technology stack</td>
     <td>MVC</td>
   </tr>
@@ -178,11 +201,11 @@ Developed proof of concept application as a library - with custom camera and voi
     <td>Programming language</td>
     <td>Swift</td>
   </tr>
-   <tr>
+  <tr>
     <td>Mobile developers (out of which iOS)</td>
     <td>5(1)</td>
   </tr>
-   <tr>
+  <tr>
     <td>Technology stack</td>
     <td>MVC, CocoaPods</td>
   </tr>
