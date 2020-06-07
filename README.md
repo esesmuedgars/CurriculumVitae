@@ -56,13 +56,15 @@
   </tr>
   <tr>
     <td>Mobile developers (out of which iOS)</td>
-    <td>11(5)</td>
+    <td>14(7)</td>
   </tr>
   <tr>
     <td>Technology stack</td>
     <td>Fastlane, Jenkins, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
   </tr>
 </table>
+
+Developing health insurance application.
 
 ### Mooncascade
 
@@ -120,7 +122,7 @@ Estimated development effort to create proposal for a potential client.
 -->
 
 Developed new features for application that grants users ability to submit receipts and claim medical expenses, manage their insurance policy and keep track of family member policies, find nearest hospital, use chatbot to check symptoms, participate in activities to earn prizes, have online chat with representatives.
-Responsible for development of new features, resolving defects, improving legacy code, writing Unit tests and network substitutes, reviewing solutions of colleagues.
+Responsible for development of new features, resolving defects, improving legacy code, writing unit tests and network substitutes, reviewing solutions of colleagues.
 
 Guided intern for a duration of two months. During which I was responsible for teaching best development principles and fundamentals of programming, creating development tasks, reviewing work, creating designs and prototypes... [more](https://github.com/esesmuedgars/CurriculumVitae/blob/master/InternChaperone.md)
 
@@ -151,10 +153,10 @@ Guided intern for a duration of two months. During which I was responsible for t
 - Consulting of clients. Participated in functional design workshops with clients to help determine scope of requirements for mobile application. Responsible for creation of user story inventory and estimation of development effort to create proposal for the client.
 -->
 
-Developed minimum viable product application that helps caregiving relatives track caretakers incontinence occurrences. Users are able to create accounts, send invites to family members to create accounts and join user's family group, and link product<sup>[1]</sup> with application. Afterwards, all users are receiving push notifications of caretakers diapers saturation level, are able to submit reports and navigate through helpful tips.
-Responsible for development of new features, creation of various custom and reusable components, writing Unit tests, reviewing teammate's solutions, consulting of clients.<br>1. IoT sensor and BLE beacon
+Developed minimum viable product application that helps caregiving relatives track caretaker's incontinence occurrences. Users are able to create accounts, send invites to family members to create accounts and join user's family group, and link product<sup>[1]</sup> with application. Afterwards, all users are receiving push notifications of caretaker's diapers saturation level, can submit reports and navigate through helpful tips.
+Responsible for development of new features, creation of various custom and reusable components, writing unit tests, reviewing teammates' solutions, consulting client.<br>1. IoT sensor and BLE beacon
 
-Participated in functional design workshops with clients to help determine scope of requirements for mobile application. 
+Participated in functional design workshops with client to help determine scope of requirements for mobile application. 
 Responsible for creation of user story inventory and estimation of development effort to create proposal for the client.
 
 ### Dukascopy Bank
@@ -203,7 +205,7 @@ Developed proof of concept application as a library - with custom camera and voi
   </tr>
   <tr>
     <td>Mobile developers (out of which iOS)</td>
-    <td>5(1)</td>
+    <td>5(3)</td>
   </tr>
   <tr>
     <td>Technology stack</td>
