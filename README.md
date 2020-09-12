@@ -41,9 +41,36 @@
 
 ## Experience
 
+<!--
+### Sparq
+
+#### Lead iOS Developer (_October 2020 - Present_)
+
+<table>
+  <tr>
+    <td>Operating system</td>
+    <td>iOS</td>
+  </tr>
+  <tr>
+    <td>Programming language</td>
+    <td>Swift</td>
+  </tr>
+  <tr>
+    <td>Mobile developers (out of which iOS)</td>
+    <td>1(1)</td>
+  </tr>
+  <tr>
+    <td>Technology stack</td>
+    <td></td>
+  </tr>
+</table>
+
+Developing fintech application.
+-->
+
 ### Accenture
 
-#### Senior iOS Developer (_May 2020 - Present_)
+#### Senior iOS Developer (_May 2020 - September 2020_)
 
 <table>
   <tr>
@@ -64,7 +91,9 @@
   </tr>
 </table>
 
-Developing health insurance application.
+Developed health insurance application.
+
+Assisted in conducting and facilitating of technical interviews for four potential candidates for iOS developer role.
 
 ### Mooncascade
 
