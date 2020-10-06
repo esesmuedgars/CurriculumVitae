@@ -43,7 +43,7 @@
 
 ### Sparq
 
-#### Lead iOS Developer (_October 2020 - Present_)
+#### Senior iOS Developer (_October 2020 - Present_)
 
 <table>
   <tr>
