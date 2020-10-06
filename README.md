@@ -41,7 +41,6 @@
 
 ## Experience
 
-<!--
 ### Sparq
 
 #### Lead iOS Developer (_October 2020 - Present_)
@@ -61,16 +60,15 @@
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td></td>
+    <td>TBD</td>
   </tr>
 </table>
 
 Developing fintech application.
--->
 
 ### Accenture
 
-#### Senior iOS Developer (_May 2020 - September 2020_)
+#### Senior iOS Developer (_May 2020 - October 2020_)
 
 <table>
   <tr>
