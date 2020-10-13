@@ -41,7 +41,7 @@
 
 ## Experience
 
-### Sparq
+### Mediapark
 
 #### Senior iOS Developer (_October 2020 - Present_)
 
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Mobile developers (out of which iOS)</td>
-    <td>1(1)</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>Technology stack</td>
