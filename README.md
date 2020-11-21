@@ -24,19 +24,19 @@
 ## Skills and tools
 
 - Swift<sup>[RW]</sup>, Objective-C<sup>[R]</sup>
-- MVC, MVVM, Coordinator pattern
-- OOP, Reactive programming
-- REST API, WS, GraphQL
+- Clean Architecture, MVVM, MVC, Coordinator pattern, Behavior pattern
+- Object-oriented programming, Reactive programming
+- REST API, WebSocket, GraphQL
 - XcodeGen, SwiftGen
 - SwiftLint
 - Unit testing
-- CocoaPods, Carthage, SPM
+- CocoaPods, Carthage, Swift Package Manager
 - Git
 - Google Analytics
 - CI / CD
-- TestFlight, Firebase App Distribution
+- App Store Connect, TestFlight, Firebase App Distribution
 - UI, UX, Human Interface Guidelines
-- Sketch, Zeplin, InVision
+- Sketch, Zeplin, InVision, Figma
 - Jira
 
 ## Experience
@@ -60,11 +60,13 @@
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td>TBD</td>
+    <td>Clean Architecture, MVVM, Swift Package Manager, Firebase, Moya</td>
   </tr>
 </table>
 
-Developing fintech application.
+Leading development of fintech application. Maintaining e-commerce application.
+
+Estimated development effort to create proposal for a potential client.
 
 ### Accenture
 
