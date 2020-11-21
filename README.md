@@ -68,6 +68,12 @@ Leading development of fintech application. Maintaining e-commerce application.
 
 Estimated development effort to create proposal for a potential client.
 
+<!--
+### Sparq
+#### Lead iOS Developer (_October 2020 - October 2020_)
+Leading development of fintech application.
+-->
+
 ### Accenture
 
 #### Senior iOS Developer (_May 2020 - October 2020_)
@@ -259,14 +265,19 @@ Developed application that acted as client and executed user actions, provided b
 (_e.g. application establishes instance with server. Server sends create client command to application. Application uses product to create client, afterwards, notifies server. Server asserts data and passes or fails test._)
 
 <!--
+### Autentica
+#### Junior iOS Developer (_July 2017 - August 2017_)
+- Worked on iOS, Objective-C project, developing Bank Application, maintenance of existent application and implementation of new features and improvements, deploying new builds in HockeyApp.
+-->
+
+<!--
 ### Accenture
-#### iOS Development Intern (_March 2017 - August 2017_)
+#### iOS Development Intern (_March 2017 - July 2017_)
 - Investigated Realm mobile database by creating a Swift demo application with multi-threading to check whether Realm could handle the load of write operations if the project would be migrated from SQLite and Core Data;
 - Developed a Swift demo application with multiple schemes based on existent project Web Services and Back-End APIs. User authentication and portrayal of API availability for a singed-in user;
 - Been involved in Swift international project, worked on new screen implementations with MVVM architectural and OOP design patterns, bug fixes, different improvements and maintenance of existent application;
 - Renewed Apple Distribution and Developer certificates, implemented Push Notifications Service
 using Firebase platform for an project was developing React-Native application, worked solely, closely with client to finish deployment of application, implemented some client requested changes and bug fixes;
 - Created Objective-C demo application that used self-created local Node Server and self-designed, static API that utilizes YouTube iFrames and WebView which was modified by injection of HTML/CSS/JS; 
-- Investigated, inside, Objective-C project that allowed to book rooms, fixed issue regarding application not authenticating with provided API and not retrieving any data;
-- Worked on iOS, Objective-C project, developing Bank Application, maintenance of existent application and implementation of new features and improvements, deploying new builds in HockeyApp.
+- Investigated, inside, Objective-C project that allowed to book rooms, fixed issue regarding application not authenticating with provided API and not retrieving any data.
 -->
