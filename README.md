@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Mobile developers (out of which iOS)</td>
-    <td>TBD</td>
+    <td>3(3)</td>
   </tr>
   <tr>
     <td>Technology stack</td>
@@ -280,4 +280,8 @@ Developed application that acted as client and executed user actions, provided b
 using Firebase platform for an project was developing React-Native application, worked solely, closely with client to finish deployment of application, implemented some client requested changes and bug fixes;
 - Created Objective-C demo application that used self-created local Node Server and self-designed, static API that utilizes YouTube iFrames and WebView which was modified by injection of HTML/CSS/JS; 
 - Investigated, inside, Objective-C project that allowed to book rooms, fixed issue regarding application not authenticating with provided API and not retrieving any data.
+-->
+
+<!--
+13 March 2017
 -->
