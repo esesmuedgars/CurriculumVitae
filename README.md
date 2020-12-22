@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-Leading development of fintech minimun viable product application. Maintaining e-commerce application, implementing new features.
+Led development of fintech minimun viable product application. Maintaining e-commerce application.
 
 Estimated development effort to create proposal for a potential client.
 
