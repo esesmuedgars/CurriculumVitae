@@ -46,11 +46,11 @@
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td>Clean Architecture, MVVM, Swift Package Manager, Firebase, Moya</td>
+    <td>Clean Architecture, Behavior pattern, MVVM, Swift Package Manager, Firebase, Moya, RxFeedback</td>
   </tr>
 </table>
 
-Led development of fintech minimun viable product application. Maintaining e-commerce application.
+Led development of fintech minimun viable product application. Maintaining e-commerce application, implementing new features.
 
 Estimated development effort to create proposal for a potential client.
 
