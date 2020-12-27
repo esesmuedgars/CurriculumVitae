@@ -3,23 +3,9 @@
 
 [![GitHub](https://img.shields.io/badge/Account%20on-GitHub-24292E.svg)](https://github.com/esesmuedgars)
 [![Stack Overflow](https://img.shields.io/badge/Account%20on-Stack%20Overflow-F48024.svg)](https://stackoverflow.com/users/7890303/esesmuedgars?tab=profile)
+[![Twitter](https://img.shields.io/badge/Account%20on-Twitter-08A0E9.svg)](https://twitter.com/esesmuedgars)
 [![LinkedIn](https://img.shields.io/badge/Account%20on-LinkedIn-0077B5.svg)](https://www.linkedin.com/in/edgarsvanags/)
 [![Gmail](https://img.shields.io/badge/Send%20to-Gmail-D44638.svg)](mailto:edgars.vanags1@gmail.com?subject=iOS%20Developer&body=Hello%20Edgars,%20)
-
-## Properties
-
-- [X] Able to collaborate
-- [X] Able to work remotely
-- [X] Ambitious
-- [X] Attentive to details
-- [X] Creative
-- [X] Cross-border team experience
-- [X] Fast learner
-- [X] Keen on new technology
-- [X] Proactive
-- [X] Responsible
-- [X] Willing to go the extra mile
-- [ ] Cheap
 
 ## Skills and tools
 
@@ -33,9 +19,9 @@
 - CocoaPods, Carthage, Swift Package Manager
 - Git
 - Google Analytics
-- CI / CD
+- CI/CD
 - App Store Connect, TestFlight, Firebase App Distribution
-- UI, UX, Human Interface Guidelines
+- UI/UX, Human Interface Guidelines
 - Sketch, Zeplin, InVision, Figma
 - Jira
 
