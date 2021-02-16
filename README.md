@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td>Clean Architecture, Behavior pattern, MVVM, Swift Package Manager, Firebase, Moya, RxFeedback</td>
+    <td>Clean Architecture, Behavior pattern, MVVM, Swift Package Manager, Firebase, Moya, RxSwift, RxFeedback</td>
   </tr>
 </table>
 
