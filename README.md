@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td>Clean Architecture, Behavior pattern, MVVM, Swift Package Manager, Firebase, Moya, RxSwift, RxFeedback</td>
+    <td>Clean Architecture, Behavior pattern, Coordinator pattern, MVVM, Swift Package Manager, Firebase, Moya, RxSwift, RxFeedback</td>
   </tr>
 </table>
 
@@ -102,7 +102,7 @@ Leading development of fintech application.
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td>Fastlane, Jenkins, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
+    <td>Fastlane, Jenkins, Coordinator pattern, MVVM, Carthage, RxSwift, Firebase, Nimble</td>
   </tr>
 </table>
 
@@ -129,7 +129,7 @@ Assisted in conducting and facilitating of technical interviews for four potenti
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td>MVVM-C, Carthage, SwiftGen, PureLayout, RxSwift, Firebase</td>
+    <td>Coordinator pattern, MVVM, Carthage, SwiftGen, PureLayout, RxSwift, Firebase</td>
   </tr>
 </table>
 
@@ -156,7 +156,7 @@ Estimated development effort to create proposal for a potential client.
   </tr>
   <tr>
     <td>Technology stack</td>
-    <td>Fastlane, Jenkins, MVVM-C, Carthage, RxSwift, Firebase, Nimble</td>
+    <td>Fastlane, Jenkins, Coordinator pattern, MVVM, Carthage, RxSwift, Firebase, Nimble</td>
   </tr>
 </table>
 
