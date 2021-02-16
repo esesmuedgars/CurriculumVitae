@@ -27,9 +27,32 @@
 
 ## Experience
 
+### Accenture
+
+#### Senior iOS Developer (_February 2021 - Present_)
+
+<table>
+  <tr>
+    <td>Operating system</td>
+    <td>iOS</td>
+  </tr>
+  <tr>
+    <td>Programming language</td>
+    <td>Swift</td>
+  </tr>
+  <tr>
+    <td>Mobile developers (out of which iOS)</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>Technology stack</td>
+    <td>TBD</td>
+  </tr>
+</table>
+
 ### Mediapark
 
-#### Senior iOS Developer (_October 2020 - Present_)
+#### Senior iOS Developer (_October 2020 - February 2021_)
 
 <table>
   <tr>
@@ -50,7 +73,7 @@
   </tr>
 </table>
 
-Led development of fintech minimun viable product application. Maintaining e-commerce application, implementing new features.
+Led development of fintech minimun viable product application. Maintained e-commerce application, implemented new features.
 
 Estimated development effort to create proposal for a potential client.
 
